@@ -1,0 +1,4 @@
+Linux is a free, open source operating system. 
+It is considered as the most reliable and secure platform.
+Linux can be used, run, modified and redistributed by any user.
+Anyone can contribute to its source code and redistribute it.
