@@ -1,1 +1,3 @@
-Linux is an open source operating system that manages system's hardware and resources (CPU , memory and storage). An operating system connects the software and hardware of the system to make them function. It handles the communication between the physical resources and the software.
+Linux is an open source operating system that manages system's hardware and resources (CPU , memory and storage). 
+An operating system connects the software and hardware of the system to make them function. 
+It handles the communication between the physical resources and the software.
